@@ -10,7 +10,7 @@ Choose two or more of the following:
 
 
 ## Instructions 
-Set a timer and give yourself 1 hour to solve each problem. After the hour stop coding, stop and take 15 minutes to write down your approach, why you took that approach, and the big O notation of your alorithm.
+Set a timer and give yourself 1 hour to solve each problem. After the hour stop coding, stop and take 15 minutes to write down your approach, why you took that approach, and the big O notation of your algorithm.
 
 After you finish the 1 hours and 15 minute assessments for your two challenges, you are free to return and work more on your algorithm or try the next.
 
