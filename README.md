@@ -1,6 +1,6 @@
 # Algo 2 DAY HACKATHON
 
-Choose two or more the following:
+Choose two or more of the following:
 
 1. [Right Smaller Than](CHALLENGES/RIGHTSMALLERTHAN.md) 
 
@@ -26,3 +26,8 @@ After you finish the 1 hours and 15 minute assessments for your two challenges, 
 4. Drawing things out and Pseudocode everything
 
 5. Break down the code into smaller pieces
+
+## Resources
+
+[Big O Cheat Sheet](https://www.bigocheatsheet.com/)
+[Solving Dynamic Programing Problems](https://www.freecodecamp.org/news/follow-these-steps-to-solve-any-dynamic-programming-interview-problem-cc98e508cd0e/)
