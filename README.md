@@ -27,6 +27,9 @@ After you finish the 1 hours and 15 minute assessments for your two challenges, 
 
 5. Break down the code into smaller pieces
 
+#### Want to make it more Challenging?
+Write out all code on paper (or google sheet) before testing or doing anything in a code editer. Write out your full solution and once you are done, put it into your code editor and test your solution.
+
 ## Resources
 
 - [Big O Cheat Sheet](https://www.bigocheatsheet.com/)
