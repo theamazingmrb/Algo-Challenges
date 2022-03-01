@@ -2,11 +2,11 @@
 
 Choose two or more the following:
 
-1. [Right Smaller Than](/CHALLENGES/RIGHTSMALLTHAN.md) 
+1. [Right Smaller Than](https://github.com/theamazingmrb/Algo-Challenges/blob/main/CHALLENGES/RIGHTSMALLTHAN.md) 
 
-2. [First Duplicate](/CHALLENGES/FIRSTDUPLICATE.md) 
+2. [First Duplicate](https://github.com/theamazingmrb/Algo-Challenges/blob/main/CHALLENGES/FIRSTDUPLICATEVALUE.md) 
 
-3. [Two Sum](/CHALLENGES/TWOSUM.md) 
+3. [Two Sum](https://github.com/theamazingmrb/Algo-Challenges/blob/main/CHALLENGES/TWOSUM.md) 
 
 
 ## Instructions 
