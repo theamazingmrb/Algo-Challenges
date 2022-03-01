@@ -2,11 +2,11 @@
 
 Choose two or more the following:
 
-1. [Right Smaller Than](/CHALLANGES/RIGHTSMALLTHAN.md) 
+1. [Right Smaller Than](/CHALLENGES/RIGHTSMALLTHAN.md) 
 
-2. [First Duplicate](/CHALLANGES/FIRSTDUPLICATE.md) 
+2. [First Duplicate](/CHALLENGES/FIRSTDUPLICATE.md) 
 
-3. [Two Sum](/CHALLANGES/TWOSUM.md) 
+3. [Two Sum](/CHALLENGES/TWOSUM.md) 
 
 
 ## Instructions 
