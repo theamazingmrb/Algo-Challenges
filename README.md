@@ -32,4 +32,5 @@ After you finish the 1 hours and 15 minute assessments for your two challenges, 
 - [Big O Cheat Sheet](https://www.bigocheatsheet.com/)
 - [Solving Dynamic Programing Problems](https://www.freecodecamp.org/news/follow-these-steps-to-solve-any-dynamic-programming-interview-problem-cc98e508cd0e/)
 - [6 Data Structures in JS](https://www.educative.io/blog/javascript-data-structures)
-- [Free Code Camp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+- [Free Code Camp - JS and Data Algos](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+- [Learn to Solve Algorithmic Problems & Coding Challenges](https://www.youtube.com/watch?v=oBt53YbR9Kk)
