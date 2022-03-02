@@ -12,7 +12,7 @@ You can assume that there will be at most one pair of numbers summing up to the 
 
 ```js
 
-aarray = [ 3, 5, -4, 8, 11, 1, -1, 6 ]
+array = [ 3, 5, -4, 8, 11, 1, -1, 6 ]
 targetSum = 10
 
 ```
@@ -30,7 +30,7 @@ targetSum = 10
 1. 
 ```js
 
-aarray = [ 3, 5, -4, 8, 11, 1, -1, 6 ]
+input array = [ 3, 5, -4, 8, 11, 1, -1, 6 ]
 targetSum = 10
 
 output answer = [ -1, 11 ]
@@ -40,7 +40,7 @@ output answer = [ -1, 11 ]
 2. 
 ```js
 
-aarray = [ 2, 8, 3, 7, 6, 0, -1 ]
+input array = [ 2, 8, 3, 7, 6, 0, -1 ]
 targetSum = 7
 
 output answer = [ 8, -1 ]
