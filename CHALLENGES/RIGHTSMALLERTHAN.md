@@ -15,7 +15,7 @@ array = [ 8, 5, 11, -1, 3, 4, 4 ]
 
 ```js
 
-[ 5, 4, 4 , 0, 1, 1, 0 ]
+[ 5, 4, 4, 0, 0, 0, 0 ]
 // There are 5 integers smaller than 8 to the right of it.
 // There are 4 integers smaller than 4 to the right of it.
 // There are 4 integers smaller than 11 to the right of it.
@@ -28,7 +28,7 @@ array = [ 8, 5, 11, -1, 3, 4, 4 ]
 
 input array = [ 8, 5, 11, -1, 3, 4, 4 ]
 
-output answer = [ 5, 4, 4 , 0, 1, 1, 0 ]
+output answer = [ 5, 4, 4, 0, 0, 0, 0 ]
 
 ```
 
