@@ -40,7 +40,7 @@ output answer = [ -1, 11 ]
 2. 
 ```js
 
-input array = [ 2, 8, 3, 7, 6, 0, -1 ]
+input array = [ 2, 8, 3, 7, 6, 11, -1 ]
 targetSum = 7
 
 output answer = [ 8, -1 ]
